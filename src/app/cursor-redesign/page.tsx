@@ -54,7 +54,7 @@ export default function CursorRedesign() {
                 <div className="page-header">
                     <h1 className="page-title text-[28px] font-bold">Cursor Usage & Spending</h1>
                     <p className="page-description text-[#667085] leading-relaxed max-w-2xl mt-2">
-                        Redesigning Cursor's usage dashboard to prioritize clarity and transparency.
+                        Redesigning Cursor&apos;s usage dashboard to prioritize clarity and transparency.
                         Detailed tracking of token consumption across models with clean visual hierarchies
                         and proactive limit management.
                     </p>
@@ -125,7 +125,7 @@ export default function CursorRedesign() {
                                 {isOnDemand ? 'On' : 'Off'}
                             </span>
                         </div>
-                        <div className="toggle-desc">When your included quota runs out, usage pauses. Enable on-demand to keep working — you'll be billed for overages at the end of the cycle. Set a monthly cap so you're never surprised.</div>
+                        <div className="toggle-desc">When your included quota runs out, usage pauses. Enable on-demand to keep working — you&apos;ll be billed for overages at the end of the cycle. Set a monthly cap so you&apos;re never surprised.</div>
                     </div>
                     <div className="toggle-right">
                         <div className="cap-input-wrap">
