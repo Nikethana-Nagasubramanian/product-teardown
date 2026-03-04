@@ -23,7 +23,7 @@ export default function Home() {
               Who am I
             </h2>
             <p className="text-[#475467] text-[16px] leading-relaxed">
-              I'm a designer & developer who picks apart real AI products, rebuilds their interfaces,
+              I&apos;m a designer & developer who picks apart real AI products, rebuilds their interfaces,
               and shows my work — from rationale to prototype.
             </p>
           </section>
@@ -44,7 +44,7 @@ export default function Home() {
               Why it matters
             </h2>
             <p className="text-[#475467] text-[16px] leading-relaxed">
-              Good design at a startup isn't about aesthetics — it's about making the product make sense.
+              Good design at a startup isn&apos;t about aesthetics — it&apos;s about making the product make sense.
               I think in systems, build in code, and care about the gap between how something
               works and how it feels to use.
             </p>
